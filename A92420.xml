@@ -1,0 +1,228 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance, by way of address from the Church of England to both houses of Parliament, upon the account of religion Together with some remarks upon Dr. Sherlock's sermon preached the 29th. of May, 1685.</title>
+            <author>Church of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92420</idno>
+            <idno type="STC">Wing R974B</idno>
+            <idno type="STC">ESTC R231488</idno>
+            <idno type="EEBO-CITATION">99896828</idno>
+            <idno type="PROQUEST">99896828</idno>
+            <idno type="VID">137043</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92420)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137043)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2448:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance, by way of address from the Church of England to both houses of Parliament, upon the account of religion Together with some remarks upon Dr. Sherlock's sermon preached the 29th. of May, 1685.</title>
+                  <author>Church of England.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1685?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>This edition has "the 29th. of May, 1685" in caption title.</note>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>With marginal notes.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sherlock, William, 1641?-1707. --  Sermon preached at St. Margarets Westminister, May 29, 1685 before the honorable House of Commons --  Early works to 1800.</term>
+               <term>Church of England --  History --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:137043:1" rendition="simple:additions"/>
+            <head>A <hi>Remonſtrance,</hi> by way of <hi>Addreſs</hi> from a <hi>Church</hi> of <hi>England</hi>-Man, to both Houſes of Parliament, upon the Account of <hi>Religion.</hi> Together with ſome <hi>Remarks</hi> upon Dr. <hi>Sherlock</hi>'s Sermon Preached the <hi>29th.</hi> of <hi>May, 1685.</hi>
+            </head>
+            <p>HIS Majeſty having ſo often and ſo ſolemnly declar'd he would maintain <hi>Me</hi> as by <hi>Law Eſtabliſhed,</hi> I cannot but rely upon His Royal word, according to your prudent and generous Vote, and think my ſelf ſufficiently ſecured by having the <hi>Word</hi> of a <hi>King;</hi> who, whilſt a <hi>Subject,</hi> was never known to <hi>break</hi> it: Yet notwithſtanding, ſeeing You <hi>My Children</hi> here aſſembled to conſult and adviſe about the moſt important matters of the Kingdom; I hope it may be lawful and ſeaſonable for Me to repreſent to your wiſe conſiderations my ſerious thoughts concerning the means to eſtabliſh my own and the Nations future <hi>Quiet</hi> and <hi>Tranquility.</hi>
+            </p>
+            <p>You cannot be ignorant that ever ſince my <hi>Seperation</hi> from the <hi>Church</hi> of <hi>Rome,</hi> I have been attacqu'd by all ſorts of <hi>Diſſenters:</hi> So that my Fate, in this Encounter, may be compared to that of a City beſieged by different Armies, who Fight both againſt It, and one another; where if the Garriſon make a Salley to endammage one, another pre<g ref="char:EOLhyphen"/>ſently takes an advantage to make an attacque. Thus whilſt I ſet my ſelf vigorouſly to ſuppreſs the <hi>Papiſt,</hi> the <hi>Puritan</hi> ſeeks to undermine Me; And whilſt I am buſied to oppoſe the <hi>Puritan,</hi> the <hi>Papiſt</hi> gains ground upon me. If I tell the <hi>Church</hi> of <hi>Rome</hi> I did not forſake <hi>her</hi> but <hi>her Errors,</hi> which I Reformed; my Rebellious Subjects tell me the ſame, and that They muſt make a <hi>Thorow Reformation:</hi> And let me bring what Ar<g ref="char:EOLhyphen"/>guments I pleaſe, to juſtify my <hi>Diſſent,</hi> they ſtill produce the ſame againſt me. If on the other hand, I plead againſt the <hi>Puritan Diſſenter,</hi> and ſhow that He ought to ſtand to <hi>Church Authority,</hi> where he is not <hi>Infallibly certain</hi> it commands a Sin; the <hi>Papiſt</hi> pre<g ref="char:EOLhyphen"/>ſently catches at it, and tells me, I deſtroy my own <hi>Grounds</hi> of <hi>Reformation,</hi> unleſs I will pretend to that <hi>Infallibility,</hi> which I condemn in them.</p>
+            <p>Matters ſtanding thus betwixt Me and Them: Why would it not be a point of Pru<g ref="char:EOLhyphen"/>dence in Me (as I doubt not but you would eſteem it in a Governour of that City I lately mention'd,) to make <hi>Peace</hi> with one of my Adverſaries, to the end I may with more eaſe reſiſt the on-ſets of the other?</p>
+            <p>I am the eaſilier induced to believe this may be effected, becauſe my Enemies are at Mortal Feudes with one another, and would rather joyn with Me than againſt Me. And what advantage  ſuch an <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> would bring to this <hi>Nation,</hi> need not be offered in detail to your view, who cannot but at the very firſt ſee them.</p>
+            <p>Our next conſideration then muſt be, to find out, whether of theſe two Parties may be the ſooner induced to ſign theſe <hi>Articles</hi> of <hi>Agreement;</hi> and will give the beſt <hi>Security</hi> for their <hi>performance</hi> of them.</p>
+            <p>In order to which, if I caſt back my Eye upon the Tranſactions which have hap'ned in this Kingdom theſe laſt 50 years, I cannot but obſerve my <hi>Puritan Diſſenting Adverſaries</hi> to be a company of People for the moſt part without <hi>Juſtice, Loyalty, Conſcience</hi> or <hi>Religi<g ref="char:EOLhyphen"/>on,</hi> tho' they pretend them all for a cloak to their Villanies. I cannot but look upon them as <hi>Implacable Enemies,</hi> and <hi>Tyranical</hi> too, where they once get the upper-hand. And if I admit them into my boſom, I may aſſure my ſelf of being <hi>Stung</hi> by them, when they are once <hi>warm,</hi> and have recover'd <hi>ſtrength.</hi>
+            </p>
+            <p>I need not mention all their Helliſh practices againſt Me and Loyal Children from 1641, till 1648. nor by what wiles they undermin'd Me firſt, and then never ceaſed till they had ruined the three Kingdoms, and embrued their hands in the Blood of the beſt of Kings. It is apparent enough what favour I may expect from them, if once again (which God forbid) the Power ſhould come into their Hands, by the <hi>Liberty</hi> they de<g ref="char:EOLhyphen"/>nyed Me in the <hi>
+                  <g ref="char:V">Ʋ</g>ſurpers</hi> wicked reign. Have they not alſo of late endeavoured to play the ſame Game over again, and to diſturb mine and the Kingdoms quiet, by <hi>Plots</hi> hatch<g ref="char:EOLhyphen"/>ed in their own Brains? What was the <hi>Popiſh Plot,</hi> but a blind for a <hi>Presbyterian</hi> one? Were not all their endeavours to Trepan us into an Ambuſh they had laid for us, whilſt we, with blind heat, were in purſuit of that <hi>Chymerical Phantome?</hi> Had they not at that time all their Machines at work to involve us in a common ruine? Did they not un<g ref="char:EOLhyphen"/>der pretence of ſecuring the King from a <hi>Popiſh Gun</hi> and <hi>Silver Bullet,</hi> endeavour to let fly at him with a <hi>True Proteſtant Bluderbuſs?</hi> What did they aim at, under pretence of ſecuring the <hi>Proteſtant Religion,</hi> but to ſtrike at <hi>Epiſcopacy?</hi> At which time no perſon, that was either Dutiful to <hi>Me,</hi> or Loyal to the <hi>King,</hi> but was preſently branded with the Name of <hi>Papiſt, Popiſhly Affected, Papiſt in Maſquerade, French Penſioner,</hi> or the like. Had they not made a Catalogue of all perſons any ways eminent in the Kingdom, and ranked them under two Heads, of <hi>Worthy men,</hi> and <hi>Men Worthy,</hi> meaning by the later, <hi>Men Worthy to be made away,</hi> becauſe true to their King and Country? When they were caught in their Villanies, did they <hi>Repent,</hi> or did they not rather with their <hi>Dying Words</hi>
+               <pb n="2" facs="tcp:137043:2" rendition="simple:additions"/>teſtify their Approbation of the intended <hi>Conſpiracy.</hi> And (which is yet worſe) are they not ſtill at work to <hi>Embroil</hi> the Nation, and by <hi>Rebellion</hi> diſturb our <hi>Quiet,</hi> and hinder the full enjoyment of that <hi>Happineſs</hi> we have now the greateſt proſpect of under the reign of a <hi>King,</hi> whoſe <hi>Example</hi> diſcountenances <hi>Vice</hi> and teaches <hi>Virtue;</hi> whoſe <hi>Juſtice</hi> will not let him abandon His own, nor Invade his Subjects <hi>Rights;</hi> whoſe <hi>Courage</hi> prompted him at all times to dare any thing for his Countries <hi>Good,</hi> if it were not in it ſelf <hi>Evil;</hi> whoſe <hi>Study</hi> is to <hi>render His Reign both Eaſie and Happy to us:</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Speech</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 22.</note> And who has, <hi>A true ENGLISH Heart, jealous of the Honour of the Nation; and pleaſes Himſelf with the Hopes, that by Gods Bleſſing,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Speech</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.</note> 
+               <hi>and Your Aſſiſtance, He may carry the Reputation of it yet Higher in the World, than ever it has been in the time of any of His Anceſtors.</hi>
+            </p>
+            <p>On the other hand, if with an Impartial Eye, we look upon the <hi>Papiſts,</hi> we ſhall find them <hi>Honeſt, Juſt, Conſcientious</hi> and <hi>Loyal</hi> in their <hi>Practices,</hi> though we are frequently told their <hi>Principles</hi> are otherwiſe: But this (they ſay) is not the only <hi>Calumny</hi> falſly laid up<g ref="char:EOLhyphen"/>on them. And for my own part, as I cannot think a mans <hi>Principles</hi> good, when I ſee his <hi>Practices</hi> otherwiſe: So am I eaſily induced to believe that <hi>Good Practices</hi> proceed from <hi>Good Principles.</hi> Neither would I have even my greateſt Enemies accuſed of holding <hi>Ill Principles,</hi> when they themſelves <hi>Renounce</hi> them, both in <hi>Speculation</hi> and in <hi>practice;</hi> for tho' it be a hard matter to waſh off all the mire with which one has been grievouſly beſpat<g ref="char:EOLhyphen"/>ter'd, yet no doubt in time <hi>Calumny</hi> will appear to the Credit of the <hi>Innocent,</hi> and Diſgrace of the <hi>Calumniator.</hi> Wherefore I cannot but condemn thoſe <hi>Accuſations</hi> with which that otherwiſe Ingenious and Loyal Diſcourſe made to You my <hi>Children</hi> of the <hi>Lower Houſe</hi> was finiſhed, <hi>viz. I deny not, but ſome, who are</hi> Papiſts, <hi>in ſome Junctures of Af<g ref="char:EOLhyphen"/>fairs, may, and have been very Loyal; but I am ſure the</hi> Popiſh Religion <hi>is not; the</hi> Engliſh<g ref="char:EOLhyphen"/>man <hi>may be Loyal,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>herlocks <hi>on</hi> May 29 <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> 
+               <hi>but not the</hi> Papiſt; <hi>and yet there can be no Security of thoſe mens Loyalty, whoſe Religion in any caſe teaches them to Rebel.</hi> For what reaſon has any man to ſay their <hi>Religion teaches them to Rebel,</hi> when they who are ſo <hi>jealous</hi> of their <hi>Religion,</hi> that they volun<g ref="char:EOLhyphen"/>tarily ſuffer the loſs of their <hi>Eſtates,</hi> their <hi>Liberties,</hi> and their <hi>Lives,</hi> rather than renounce the <hi>leaſt Tittle</hi> of it, do both in their publick Writings, and private Diſcourſes, <hi>Declare</hi> and <hi>Maintain</hi> that their <hi>Religion teaches</hi> no ſuch <hi>Doctrine,</hi> and that they are ready to main<g ref="char:EOLhyphen"/>tain and practice <hi>True Loyalty</hi> with the hazard of their <hi>Lives</hi> and <hi>Fortunes.</hi> 'Tis true, ſome perſons in Communion with <hi>Rome,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>na.</note> have broched Tenents inconſiſtent with Loyalty, but 'tis true likewiſe their Books have been <hi>Condemned</hi> and <hi>Burnt</hi> (as they often tell us) by the Publick <hi>Executioner.</hi> Seeing therefore the <hi>Roman Catholicks</hi> do frequently declare. <q>That it is an <hi>Article</hi> of <hi>Faith</hi> in their <hi>Church,</hi> and expreſly declared in the Council of <hi>Con<g ref="char:EOLhyphen"/>ſtance,</hi> that the <hi>King-killing-Doctrine,</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>an-Cath. <hi>
+                        <gap reason="illegible" resp="#OXF" extent="5 letters">
+                           <desc>•••••</desc>
+                        </gap>iples</hi> 3 <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 1680.</note> or Murder of Princes Excommunicated for <hi>Here<g ref="char:EOLhyphen"/>reſie,</hi> is <hi>Damnable</hi> and <hi>Heretical,</hi> as being contrary to the known Laws of God and Na<g ref="char:EOLhyphen"/>ture: As alſo, that no <hi>Cacholicks</hi> as <hi>Catholicks</hi> believe, that the <hi>Pope</hi> hath any direct, or Indirect Authority over the <hi>Temporal Power,</hi> and Juriſdiction of Princes: So that if the <hi>Pope</hi> ſhould pretend to <hi>Abſolve,</hi> or <hi>Dispence</hi> with His Majeſties Subjects from their <hi>Alle<g ref="char:EOLhyphen"/>giance,</hi> upon account of <hi>Hereſy</hi> or <hi>Schiſm,</hi> ſuch Diſpenſation would be vain and null, and all <hi>Catholick</hi> Subjects (notwithſtanding ſuch <hi>Dispenſation</hi> and <hi>Abſolution</hi>) would be ſtill bound in Conſcience to <hi>Defend</hi> their King and Country, at the hazard of their Lives and Fortunes, even againſt the <hi>Pope</hi> himſelf, in caſe he ſhould invade the Nation.</q> I ſay, ſeeing <hi>Roman Catholicks</hi> do thus generally declare their <hi>Loyalty,</hi> I think they ought no more in juſtice to be charged with Diſloyal Principles for the <hi>Extravigance</hi> of ſome few of that vaſt Body, and thoſe <hi>Cenſur'd</hi> and <hi>Condemn'd</hi> too by them, than I am to be charg'd with <hi>Principles</hi> of the like <hi>Diſloyalty</hi> and <hi>Injuſtice,</hi> becauſe ſome of my Children have been for the <hi>Bill of Excluſion,</hi> and others who Communicated with me, have written <hi>Scanda<g ref="char:EOLhyphen"/>lous Pamphlets, Narratives,</hi> &amp;c. tending to <hi>Treaſon</hi> and <hi>Rebellion.</hi> But what, in one word, ſeems to Me a convincing Argument that the <hi>Papiſts</hi> do not hold ſuch <hi>Pernicious Doctrines,</hi> is, that I ſee ſo many <hi>Kings</hi> and <hi>Princes</hi> in other Countries no leſs <hi>jealous</hi> of their <hi>Lives</hi> and <hi>Authorities</hi> than others, who yet profeſs and maintain that <hi>Religion,</hi> and think themſelves ſecure by her <hi>Principles,</hi> when they dare not truſt the <hi>Calviniſt.</hi> And if we may deſcend to particulars, can we imagine that His preſent <hi>Majeſty,</hi> who could not but know that the <hi>Roman Church</hi> was frequently taxed with <hi>Diſloyal Principles,</hi> would embrace her <hi>Faith</hi> with<g ref="char:EOLhyphen"/>out examining ſo <hi>neceſſary</hi> a Tenent: Or can we imagine, after ſuch an examination, that He who has promiſed to maintain Me (as I may ſay) only becauſe He knew I was for <hi>Mo<g ref="char:EOLhyphen"/>narchy</hi> and <hi>Loyalty,</hi> would himſelf embrace a <hi>Religion</hi> which teaches the contrary <hi>Prin<g ref="char:EOLhyphen"/>ciples?</hi> So that to condemn the <hi>Roman Catholick Religion</hi> of <hi>Principles</hi> of <hi>Diſloyalty,</hi> is either to condemn the King of <hi>Ignorance</hi> in his own <hi>Religion,</hi> or of <hi>careleſsneſs</hi> of his own <hi>Secu<g ref="char:EOLhyphen"/>rity.</hi> Theſe things thus conſidered, I cannot but ſay it was a reaſonable Complaint of one of them in theſe words. <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ace to <hi>Ro<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>-Catholick</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ciples.</note> 
+               <hi>Is it not ſtrange and ſevere, that</hi> Principles, <hi>and thoſe pre<g ref="char:EOLhyphen"/>tended of</hi> Faith <hi>too, ſhould be</hi> Impoſed <hi>upon men, which they themſelves</hi> Renounce <hi>and</hi> deteſt? <hi>If the</hi> Turk's Alcaron <hi>ſhould in like manner be urged upon us, and we hanged up for</hi> Mahume<g ref="char:EOLhyphen"/>tans, <hi>all we could do or ſay in ſuch a caſe, would be to die</hi> Patiently <hi>with</hi> Proteſtations <hi>of our own</hi> Innocence. <hi>And this is the poſture of our Condition; (continues he) we</hi> Abhor, <hi>we</hi> Renounce,
+<pb n="3" facs="tcp:137043:2"/>
+               <hi>we</hi> Abominate <hi>ſuch</hi> Principles; <hi>we proteſt againſt them, and Seal our Proteſtations with our</hi> Dying Breaths. <hi>What ſhall we ſay, What can we do mo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e? To</hi> Accuſe <hi>men as Guilty in</hi> Matters of Faith, <hi>which they never own'd, is the ſame thing as to condemn them for</hi> Matters of Fact, <hi>which they never did.</hi> It is ſufficiently known to all the Ingenious, who have ei<g ref="char:EOLhyphen"/>ther read or obſerv'd any thing, that in <hi>King Charles</hi> the Firſt's reign when ſo great a num<g ref="char:EOLhyphen"/>ber of <hi>Engliſhmen</hi> Rebelled againſt their Prince, not one <hi>Papiſt</hi> was obſerved who was not ready or actually did not hazard his <hi>Life</hi> and <hi>Fortune</hi> for the ſupport of <hi>Monarchy.</hi> How many of them in that wicked <hi>Rebellion</hi> Sealed their <hi>Loyalty</hi> with their laſt <hi>Blood?</hi> And after the Martyrdom of that Glorious King, were not They as well as My Dutiful Children, forced to ſeek a <hi>Refuge</hi> in Foreign Countries; where (if I may eye their other Virtues) they maintain'd a mutual Friendſhip with My Children, as being tyed with the common bands of <hi>Fellow Subjects, Soldiers</hi> or <hi>Sufferers?</hi> And after His late <hi>Majeſties</hi> Happy <hi>Reſtora<g ref="char:EOLhyphen"/>tion,</hi> How long did we live together in <hi>Peace</hi> and <hi>Tranquility,</hi> till thoſe, wicked <hi>Emiſſaries</hi> of <hi>Hell</hi> animated us againſt our Brethren by <hi>Narratives</hi> and <hi>Informations</hi> of I know not what <hi>Plots</hi> and <hi>Conſpiracies,</hi> of which now at laſt we find them <hi>Innocent?</hi> During which very time, with what <hi>Patience</hi> did the <hi>Romaniſts</hi> ſuffer all thoſe <hi>Injurious</hi> and <hi>Contumelious Proceedings,</hi> even to the very loſs of their <hi>Eſtates,</hi> their <hi>Liberties</hi> and their <hi>Lives,</hi> when we ſaw them go like <hi>Sheep to the ſlaughter,</hi> who ſcarce <hi>Bleated</hi> all the time, unleſs it were to declare their <hi>Innocence,</hi> to Pray for the <hi>King</hi> and <hi>Kingdom,</hi> and to fore-warn us of our <hi>Ap<g ref="char:EOLhyphen"/>proaching ruine:</hi> In which certainly they were our beſt Friends, if we could have been Friends to our ſelves, and hearkned to their Advice which we found to be good and So<g ref="char:EOLhyphen"/>lid, tho' it was almoſt too late before we would believe it.</p>
+            <p>Let us likewiſe reflect how they beha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e themſelves at preſent, now we look upon them to enjoy the greateſt Advantages they have had this many years, and we ſhall find it to be with <hi>unexpected Moderation.</hi> We who were formerly almoſt frighted into <hi>Bedlam</hi> for fear of a <hi>Popiſh Succeſſor,</hi> find under <hi>JAMES the GREAT and the J<g ref="char:V">Ʋ</g>ST</hi> our <hi>Liberties,</hi> our <hi>Pro<g ref="char:EOLhyphen"/>perties,</hi> our <hi>Rights,</hi> and our <hi>Religion</hi> ſecured, and may expect to ſee our <hi>Kingdom</hi> become <hi>Glorious,</hi> and the old <hi>Engliſh Bravery</hi> once more <hi>Flouriſh</hi> under ſo <hi>GREAT</hi> an <hi>ENGLISH KING,</hi> if His Subjects will but ſhow themſelves <hi>True Engliſh-men,</hi> As His Majeſty was pleas'd to expreſs it to ſome of You.</p>
+            <p>You ſee <hi>(my Deareſt Children)</hi> that our <hi>Fears</hi> were vain, and our <hi>Jealouſies</hi> without grounds. <hi>This</hi> very <hi>Stone, which was once rejected by the Architects, is now become the chief Stone in the Corner:</hi> We may truly ſee in it <hi>the Hand of God,</hi> and look upon it with <hi>Ad<g ref="char:EOLhyphen"/>miration,</hi> and may expect (if <hi>Fears</hi> and <hi>Jealouſies</hi> hinder not) the greateſt, <hi>Bleſſings</hi> we can wiſh for: An <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> betwixt <hi>theſe two Walls</hi> which have been thus long <hi>ſeparated,</hi> and now in a fair way to be <hi>
+                  <g ref="char:V">Ʋ</g>nited</hi> and <hi>Linked</hi> together by this <hi>Corner-ſtone,</hi> after which how Glorious a Structure may we Hope for, upon ſuch Foundations?</p>
+            <p>Shall we then <hi>(My Lords and Gentlemen)</hi> ſtill wage a War againſt theſe our <hi>Brethren,</hi> who would live <hi>Peaceably</hi> amongſt us, and ſeek by all means to endear us? ſhall we con<g ref="char:EOLhyphen"/>tinue to put the <hi>Rigour</hi> of the <hi>Laws</hi> equally in Execution againſt theſe who would live at <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> with us, and not <hi>Diſturb</hi> our Government, and thoſe whom we have ſo often, and do at preſent find to be <hi>Reſtleſs</hi> and <hi>Implacable Enemies?</hi> Let it not be ſaid we love Diſ<g ref="char:EOLhyphen"/>ſention, or that we delight in <hi>Severity</hi> and <hi>Blood,</hi> leaſt it be objected, our Cauſe is not to be ſuſtain'd unleſs the <hi>Rigour</hi> of the <hi>Laws</hi> be put in <hi>Execution,</hi> as if neither <hi>Truth</hi> nor <hi>Juſtice</hi> were on our ſide. I cannot think thoſe to be good Foundations which muſt be ce<g ref="char:EOLhyphen"/>mented with <hi>Penalties</hi> and with <hi>Blood:</hi> Neither can I think thoſe, who are reduced to my Embraces, or retained in them by <hi>Rigour,</hi> will prove Faithful to me in the conflict. They are rather <hi>Slaves</hi> than <hi>Sons, Hypocrites</hi> not <hi>Converts,</hi> who having forſaken their <hi>God</hi> for Intereſt, cannot be true to <hi>Me</hi> or <hi>Man.</hi> Let <hi>Truth</hi> ſuſtain me, not <hi>Rigour; Truth</hi> will en<g ref="char:EOLhyphen"/>dure for ever, and ſhine in the midſt of Darkneſs, ſo that it is well compared to the <hi>Dia<g ref="char:EOLhyphen"/>mond,</hi> which ſparkles in the obſcureſt night, reſiſts the File, the Hammer, and the Flame; but yet may be ſoftned with the Blood o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Goats: This <hi>Truth</hi> flouriſhed in the greateſt <hi>Perſecutions,</hi> and prevailed, when the Profeſſors of it ſuffered the moſt horrid Torments, their Blood being the Seed of the Church, which brought forth an hundred fold: But ſhould a Church endeavour once to <hi>propagate</hi> her <hi>Truth</hi> by <hi>Perſecutions</hi> and by <hi>Blood,</hi> ſhe may have reaſon to fear the <hi>Diamonds</hi> Lot, and <hi>that Blood</hi> will Tarniſh all its Luſter, and deſtroy the <hi>Solidity,</hi> the <hi>Splendour,</hi> and the <hi>value</hi> of it all at once. Let <hi>Truth</hi> then be my ſolid <hi>Foundation,</hi> and let us leave the <hi>Sanguinary</hi> and the <hi>Penal Laws</hi> to thoſe who are not built upon <hi>It.</hi>
+            </p>
+            <p>If we cannot aſſure our ſelves of a perfect <hi>Peace</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> with <hi>Rome,</hi> we may hope for a <hi>Truce,</hi> a Ceſſation of Arms, a Happy Correſpondence and mutual Commerce.</p>
+            <p>Yet ſome Overtures of <hi>Peace</hi> have been frequently made by the <hi>Romaniſts,</hi> and I may ſay with Truth, if it had not been for ſome <hi>Hot-headed Zealots,</hi> and other <hi>Ignorant Polemicks,</hi> our <hi>Breaches</hi> had never been ſo wide; yea on the contrary, would have been long ſince healed. Our <hi>Zealots</hi> cry perpetually againſt the <hi>Idolatry</hi> of the Church of <hi>Rome;</hi> and yet the <hi>Romaniſts,</hi> it's well known, cry as much againſt <hi>Idolatry</hi> as we. If they would
+<pb n="4" facs="tcp:137043:3"/>paint a <hi>Papiſt,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>-Cath. <hi>
+                     <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>les.</hi>
+               </note> they beſmear him with the ugly colours of <hi>Equivocations, Mental Reſer<g ref="char:EOLhyphen"/>vations, Dispenſations</hi> to <hi>Lye, Forſwear</hi> and <hi>Maſſacre</hi> their Neighbours; when on the contrary the <hi>Roman Catholick</hi> recommends <hi>Simplicity</hi> and <hi>Godly Sincerity,</hi> as truly <hi>Chriſtian Virtues,</hi> neceſſary to the <hi>Conſervation of Juſtice, Truth</hi> and <hi>Common Society:</hi> And tell us, <hi>That all</hi> Pardons <hi>and</hi> Diſpenſations <hi>granted, or pretended to be granted, in order to any ſuch Ends or Deſigns, have no other Validity or Effect, than to add</hi> Sacriledge <hi>and</hi> Blaſpemy <hi>to the above-named</hi> Crimes. And as for our common <hi>Controvertiſts,</hi> how often are we told they miſtake the <hi>Roman Catholick Tenents,</hi> miſ-repreſent their <hi>Doctrines,</hi> fight againſt <hi>Chimera's</hi> of their own Brains, and moſt commonly either ſpend whole Volumes in re<g ref="char:EOLhyphen"/>futing <hi>Errors,</hi> which They <hi>Condemn</hi> as well as We, or eſtabliſhing <hi>Truths</hi> which they <hi>Af<g ref="char:EOLhyphen"/>firm?</hi> How often have they told us, <hi>We muſt ſeparate their</hi> Articles <hi>of</hi> Faith <hi>from their</hi> Theological Diſputes, <hi>and take their</hi> Doctrines <hi>from their</hi> Councils, <hi>not their</hi> Schools? And yet how little profit have our <hi>Polemicks</hi> reaped from this Admonition? How often have they formerly urged us to an <hi>Oral</hi> or <hi>Pen</hi> Combat, upon condition <hi>Security</hi> and <hi>Free<g ref="char:EOLhyphen"/>dom</hi> might be given them, the Queſtions <hi>rightly ſtated,</hi> and the other common Laws of <hi>Disputation</hi> ſtrictly obſerved; But ſtill either the real or pretended <hi>Intereſt of State</hi> put a ſtop thereto; Inſomuch that in their Publick Writings, they have often told us, <hi>We behave our ſelves like perſons diffident of our Cauſe, decline Disputes on equal terms, and either</hi> miſ-repreſent <hi>their</hi> Tenents (<hi>as appears manifeſtly in their Doctrines of</hi> Juſtification <hi>and</hi> Me<g ref="char:EOLhyphen"/>rit, Satisfaction <hi>and</hi> Indulgences) <hi>or elſe play the</hi> Buffoons, <hi>Joaking, Scoffing, and relating Stories, which, if true, would not touch</hi> Religion? I muſt confeſs many of our Young <hi>Divines</hi> (if I may call them <hi>Divines,</hi> who have not ſpent above a year or two in the <hi>
+                  <g ref="char:V">Ʋ</g>niverſities</hi>) are to blame in this, who having obtain'd a good <hi>Benefice,</hi> by the Sollicitation of Friends, and not by their Merit, are forced to Preach to others, what they ſcarce underſtand them<g ref="char:EOLhyphen"/>ſelves. Such as theſe, for want, it may be, of Matter, are glad to fly to the common Top<g ref="char:EOLhyphen"/>pick of <hi>Railing</hi> at <hi>Rome,</hi> and <hi>Hell,</hi> the <hi>Pope</hi> and the <hi>Devil,</hi> for which being applauded by their Zealous and Ignorant Auditors, and moved with an itch of being in <hi>Print,</hi> they publiſh their own puerile Conceptions, or ſuch as they have glean'd from others of the like <hi>Learn<g ref="char:EOLhyphen"/>ing, Judgement</hi> and <hi>Reading,</hi> and tho' it be all to no purpoſe, yet they flatter themſelves, as if from thence the down-fall of <hi>Popery,</hi> and the utter deſtruction of the <hi>Whore</hi> of <hi>Baby<g ref="char:EOLhyphen"/>lon</hi> muſt neceſſarily enſue.</p>
+            <p>Upon theſe conſiderations; <hi>My Lords and Gentlemen,</hi>
+            </p>
+            <p>My humble requeſt to you in this <hi>Aſſembly,</hi> is, that you would adviſe about ſome means for our <hi>Order, Concord</hi> and <hi>Agreement<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and take care, that what may widen our <hi>Breaches</hi> may be Rejected, and what may cloſe the <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Embraced. The beſt way to effect which in My Thoughts are theſe.</p>
+            <p>Firſt, <hi>That it may be provided that Thoſe, who are known to be Faithful Friends to the King and Kingdom's Good, may equally with <g ref="char:V">Ʋ</g>s enjoy thoſe</hi> Favours <hi>and</hi> Bleſſings <hi>we may Hope for under ſo GREAT and ſo J<g ref="char:V">Ʋ</g>ST a KING, without being lyable to the</hi> Sanguinary <hi>or</hi> Penal Laws <hi>for holding</hi> Opinions <hi>no ways inconſiſtent with</hi> Loyalty <hi>and the</hi> Peace <hi>and</hi> Quiet <hi>of the Nation. And that they may not be obliged by</hi> Oaths <hi>and</hi> Teſts, <hi>either to renounce their</hi> Religi<g ref="char:EOLhyphen"/>on <hi>which they know they cannot do without</hi> Sacriledge, <hi>or elſe to put themſelves out of</hi> Capacity <hi>of</hi> Serving <hi>their</hi> King <hi>or</hi> Country.</p>
+            <p>Secondly, <hi>That for</hi> Healing <hi>our</hi> Differences, <hi>it be appointed that neither ſide in their</hi> Ser<g ref="char:EOLhyphen"/>mons <hi>touch upon matters of</hi> Controverſy <hi>with</hi> Animating Reflections; <hi>but that thoſe Diſ<g ref="char:EOLhyphen"/>courſes, may wholly tend to</hi> Peace <hi>and</hi> Piety, Religion <hi>and ſound</hi> Morality. <hi>And that in all Publick</hi> Catechiſms <hi>the ſolid</hi> Grounds <hi>and</hi> Principles <hi>of</hi> Religion <hi>may be</hi> ſolely <hi>Explicated, and Eſtabliſhed, all reflecting Animoſities being laid aſide.</hi>
+            </p>
+            <p>Thirdly, <hi>That ſome</hi> Learned, Devout <hi>and</hi> Sober <hi>Perſons may be made choice of on both ſides, who may truly ſtate matters of</hi> Controverſy <hi>betwixt us, to the end each one may know the others Pretenſions, and the</hi> Tenents <hi>they cannot abandon, without breaking the chain of</hi> Apoſto<g ref="char:EOLhyphen"/>lick Faith. <hi>Which if it be done, we ſhall, it may be, find that to be true, which the</hi> Papiſts <hi>often tell us;</hi> That the difference betwixt <hi>Them</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>s,</hi> is not ſo great as many make it, nor their <hi>Tenents</hi> ſo <hi>Pernicious,</hi> but if we ſaw them naked, we ſhould, if not embrace them as <hi>Truths,</hi> yet not condemn them as <hi>Errors,</hi> much leſs as <hi>Pernicious Doctrines. Yet if not<g ref="char:EOLhyphen"/>withſtanding all this we cannot perfectly agree in ſome</hi> Points, <hi>let us however endeavour to live together in the Bonds of</hi> Love <hi>and</hi> Charity, <hi>as becomes</hi> Good Chriſtians <hi>and</hi> Loyal Subjects, <hi>and joyn together to oppugne thoſe known Maxims, and Pernicious Errors, which deſtroy the</hi> Eſſence <hi>of</hi> Religion, Loyalty <hi>and</hi> Good Government.</p>
+            <p>This is <hi>(My deareſt Children)</hi> the <hi>Remonſtrance</hi> I thought good to make you, and I doubt not but Your <hi>Wiſdoms</hi> will ſo order it, that if not by this <hi>Method,</hi> at leaſt by ſome other Efficacious means, all our <hi>Differences</hi> may be ſoothed; and when <hi>Heats</hi> about <hi>Religion</hi> ceaſe, we may hope for a future ſtable <hi>Quiet</hi> in the Nation. This is what I ſhall daily Pray for, and that God would by his Grace ſo Guide this <hi>Great Aſſembly,</hi> that all their Acts, Votes and Councels may tend to his <hi>Honour</hi> and <hi>Glory,</hi> the Good of his <hi>Church,</hi> and the <hi>Prosperity</hi> and laſting <hi>Peace</hi> of the Kingdom.</p>
+            <closer>God ſave King <hi>JAMES</hi> the Second.</closer>
+            <closer>Amen.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
